@@ -1,0 +1,16 @@
+a{
+	color: red; 
+	text-decoration: none;
+}
+h1{
+	font-family: helvetica;
+	
+}
+h1,img{
+	width:50px;
+	margin: auto;
+	background: red;
+	background-size: 1000px;
+	
+	;
+}
