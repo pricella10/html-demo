@@ -1,4 +1,6 @@
 hello pricella
-achgchjgchjzgx
-jchhjxcghxzkcg
-how are you???
+
+=======
+hi razeena...
+i am the owner
+razeena is the colabarator

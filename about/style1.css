@@ -1,0 +1,19 @@
+body{
+	width: 600px;
+	margin: 20px ;
+}
+img
+{ width: 200px;
+  height: 200px;
+  float: left;
+  margin-right: 30px;
+}
+.preview
+{
+ float:right;
+ background-color: blue;
+ width: 300px;
+ 
+
+}
+
