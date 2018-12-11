@@ -1,0 +1,77 @@
+{
+    font-family : verdana;
+    margin:0px;
+
+}
+
+body
+{
+    background-color: black;
+
+}
+h1 {
+    size: 500px;
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+    
+  }
+  h2 
+  { size: 400;
+    text-align: center;
+    padding-top :0px;
+    background-color: aqua;
+  }
+  a{
+    display: inline;
+    padding : 10px 10px 10px 10px;
+  }
+nav a:hover
+{   
+    text-decoration: none;
+    list-style: none;
+    height: 80px;
+}
+.wrapper
+{
+    width: 100%;
+    max-width: 960px;
+    margin : auto;
+}
+
+.flex-container
+{
+    display: flex;
+}
+.box
+{   
+    height: 100px;
+    min-width: 100px;
+}
+.one 
+{   height: 700px;
+    width: 200px;
+    background: white;
+    
+    
+}
+
+.two
+{   height: 700px;
+    width: 1200px;
+    background: red;
+
+}
+.three
+{   height: 700px;
+    width: 200px;
+     background: green;
+}
+
+figure{
+    float:right;
+}
+.mim
+{
+    float: right;
+}
